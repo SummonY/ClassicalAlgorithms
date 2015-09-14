@@ -1,5 +1,5 @@
 # Classical Algorithm
-    Summary classical algorithm
+    Classical algorithm summary
 
 ## Algorithm:
 
@@ -10,3 +10,4 @@
 |    Fisher-Yates    | Fisher-Yates shuffle algorithm |
 |    0-1 Knapsack    |  0-1 Knapsack Problem |
 |      strcpy        | string copy |
+|      memcpy        | memory copy |
