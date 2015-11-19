@@ -11,3 +11,4 @@
 |    0-1 Knapsack    |  0-1 Knapsack Problem |
 |      strcpy        | string copy |
 |      memcpy        | memory copy |
+|      MPQ Hash      | One-Way Hash |
