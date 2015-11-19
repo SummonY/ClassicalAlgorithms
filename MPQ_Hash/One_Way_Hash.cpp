@@ -43,7 +43,6 @@ unsigned long HashString(string fileName, unsigned long dwHashType) {
 }
 
 
-
 int main(int argc, char *argv[])
 {
     if (argc != 2) {
